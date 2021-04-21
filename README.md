@@ -1,1 +1,1 @@
-# estructural-patterns-project
+# structural-patterns-project
