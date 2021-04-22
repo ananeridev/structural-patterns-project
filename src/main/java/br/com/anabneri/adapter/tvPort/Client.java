@@ -14,7 +14,6 @@ public class Client {
 		System.out.println("------ Monitor ----------");
 		
 
-
 		System.out.println("------ Monitor Class Adapter ----------");
 		
 
