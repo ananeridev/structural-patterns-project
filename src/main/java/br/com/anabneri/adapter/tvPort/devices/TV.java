@@ -3,7 +3,6 @@ package br.com.anabneri.adapter.tvPort.devices;
 import br.com.anabneri.adapter.tvPort.intefaces.HDMI;
 
 public class TV implements HDMI {
-	
 	@Override
 	public void setImage(String image) {
 		System.out.println(">>> This is your video: " + image);
